@@ -1,1 +1,3 @@
 # PLP-Price-Conversion-Python-Assignment
+This function named calculate_discount(price, discount_percent) calculates the final price after applying a discount. The function takes the original price (price) and the discount percentage (discount_percent) as parameters. If the discount is 20% or higher, it applies the discount; otherwise, it returns the original price.
+The calculate_discount function, prompts the user to enter the original price of an item and the discount percentage.Finally it prints the final price after applying the discount, or if no discount was applied, it prints the original price.
